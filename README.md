@@ -33,5 +33,5 @@ If you have an exciting project or idea, feel free to reach out! I'm always open
 ## 📬 How to reach me...
 
 - **Email**: [alimamulla1997@gmail.com](mailto:alimamulla1997@gmail.com)
-- **LinkedIn**: [Omkar Kharat](https://www.linkedin.com/in/alim-mulla-b769a619b)
-- **Portfolio**: [Docmagician](https://github.com/alimamulla)
+- **LinkedIn**: [Alim Mulla](https://www.linkedin.com/in/alim-mulla-b769a619b)
+- **Portfolio**: [Docmaster Alim](https://github.com/alimamulla)
