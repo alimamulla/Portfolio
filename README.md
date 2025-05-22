@@ -35,3 +35,67 @@ If you have an exciting project or idea, feel free to reach out! I'm always open
 - **Email**: [alimamulla1997@gmail.com](mailto:alimamulla1997@gmail.com)
 - **LinkedIn**: [Alim Mulla](https://www.linkedin.com/in/alim-mulla-b769a619b)
 - **Portfolio**: [Docmaster Alim](https://github.com/alimamulla)
+
+- ## 😄 Pronouns...
+He/Him
+
+---
+
+## 🛠️ Technical Skills
+
+### Technical Writing Skills
+- DITA, Markdown, S1000D  
+- SDLC, DDLC, CMS  
+- Information Mapping, Instruction Writing 
+- Editing and Proofreading, API Documentation, XML, HTML  
+
+### 🔧 Tools  
+**Authoring Tools**: Github, VS Code, Oxygen XML Editor, Confluence, MS Word, Adobe FrameMaker  
+**Graphics Tools**: MS Paint, Snag IT, FS Capture, Greenshot  
+**Presentation Tools**: Microsoft PowerPoint  
+**PDF Tools**: Adobe Acrobat, Adobe Reader, Foxit Reader  
+**E-learning Tools**: Camtasia  
+**Others**: Jira, Git, SAP, Alfresco
+
+### 🪙 Web3 Skills
+- Blockchain Basics  
+- Smart Contract Documentation  
+- Decentralized Applications (dApps)  
+- Tokenomics and Whitepapers  
+
+---
+
+## 💼 Professional Experience
+
+### Esko Software, Bangalore  
+**Technical Writer | July 2024 – Present**  
+- Write and maintain documentation (Admin Guides, User Manuals, API Documentation) for SaaS-based software products on AWS.  
+- Collaborate with UX designers to improve user experience through UI text and microcopy.  
+- Implemented AI model (My Esko Beta) for customer support, reducing support calls by 40%.  
+- Managing translation of software strings for consistency across multiple languages.  
+- Working on implementing Docs as Code to streamline documentation processes.  
+
+---
+
+### Sonovision Actos, Bangalore  
+**Technical Writer | October 2021 – July 2024**  
+- Authored Knowledge Base (KB) articles, SRS, and FSD documents for SaaS products on Salesforce (Heroku).  
+- Implemented DITA XML and CMS, reducing writing time by 50% and minimizing errors by 80%.  
+- Developed a performance evaluation tool (SWIP) for technical writers, later adopted by developers and testers.  
+- Created a training plan for new technical writers to enhance knowledge transfer.  
+
+---
+
+## 🎓 Education & Certifications
+
+**✈️ Aircraft Maintenance Engineering** from Pune Institute of Aviation Technology.
+
+**Certifications**:
+- Technical Writing  
+- Basic Agile Methodology  
+- API Basics  
+- UI/UX Writing  
+- Basics of HTML  
+- Software Testing  
+- DITA  
+
