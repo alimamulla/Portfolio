@@ -47,12 +47,12 @@ If you have an exciting project or idea, feel free to reach out! I'm always open
 - Editing and Proofreading, API Documentation, XML, HTML  
 
 ### 🔧 Tools  
-**Authoring Tools**: Github, VS Code, Oxygen XML Editor, Confluence, MS Word, Adobe FrameMaker  
-**Graphics Tools**: MS Paint, Snag IT, FS Capture, Greenshot  
-**Presentation Tools**: Microsoft PowerPoint  
-**PDF Tools**: Adobe Acrobat, Adobe Reader, Foxit Reader  
-**E-learning Tools**: Camtasia  
-**Others**: Jira, Git, SAP, Alfresco
+- **Authoring Tools**: Github, VS Code, Oxygen XML Editor, Confluence, MS Word, Adobe FrameMaker  
+- **Graphics Tools**: MS Paint, Snag IT, FS Capture, Greenshot  
+- **Presentation Tools**: Microsoft PowerPoint  
+- **PDF Tools**: Adobe Acrobat, Adobe Reader, Foxit Reader  
+- **E-learning Tools**: Camtasia  
+- **Others**: Jira, Git, SAP, Alfresco
 
 ---
 
@@ -79,5 +79,5 @@ If you have an exciting project or idea, feel free to reach out! I'm always open
 - Basics of HTML  
 - DITA
 - Technical communications using AI for Technical Professionals
-1. sddddddd 
+
 
