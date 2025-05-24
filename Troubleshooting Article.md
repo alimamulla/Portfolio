@@ -25,7 +25,7 @@ Your WhatsApp Business account has been disabled or blocked by Meta, and attempt
 Your account may have been disabled due to violations of Meta's policies. Common reasons include:
 
 - **Sending bulk messages** to numerous contacts using automation tools.  
-- **Disseminating spammy advertisements** or overly promotional messages containing multiple links, which can be marked as low-quality content.  
+- **Sharing spammy advertisements** or overly promotional messages containing multiple links, which can be marked as low-quality content.  
 - **Being reported or blocked** by customers.  
 - **Violating WhatsApp guidelines**, such as:
   - Selling prohibited goods and services.  
