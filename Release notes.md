@@ -14,4 +14,16 @@ You can easily react to and share your friends' status updates with others. This
 
 
 ### 🎶 Turn Up the Volume: Add Music to Your WhatsApp Status!  
+You can add music tracks to your Status updates, making your shared moments more expressive and engaging.  
+
+![Music](https://github.com/alimamulla/Docmaster/blob/f52bb773d2300c81fd45bc44aae58daa2813ed65/music.png)
+
+### ✉️ Introducing Voice Message Transcripts  
+
+Now you can read voice messages instead of listening to them. Perfect when you’re in a meeting or a quiet place.  
+Voice messages are transcribed into text to help you keep up with conversations no matter what you’re doing.  
+Transcripts appear right below the voice message, automatically.  
+
+![](https://github.com/alimamulla/Docmaster/blob/621de7477d80e5f947a1ce34c1e9395f0a694d83/transcript.png)  
+
 
