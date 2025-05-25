@@ -54,7 +54,7 @@ Your account may have been disabled due to violations of Meta's policies. Common
 ## Best Practices to Avoid Future Account Blocks
 
 - Avoid using unauthorized automation tools.  
-- Refrain from sending unsolicited or overly promotional messages.  
+- Avoid sending messages that are not requested or are too promotional.
 - Maintain high message quality and relevance.  
 - Ensure compliance with Meta’s policies and legal requirements.
 
