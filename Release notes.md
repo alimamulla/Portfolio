@@ -48,6 +48,8 @@ Transcripts appear right below the voice message, automatically.
 
 - Option to Save Your Own Status Updates
 
+  
+
 
 📲 Keep WhatsApp updated to enjoy all the latest features as they roll out!
 
