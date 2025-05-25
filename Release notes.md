@@ -27,3 +27,30 @@ Transcripts appear right below the voice message, automatically.
 ![](https://github.com/alimamulla/Docmaster/blob/621de7477d80e5f947a1ce34c1e9395f0a694d83/transcript.png)  
 
 
+## 🔧 Improvements
+- Quick Emoji Reactions: Double-tap any message to react fast.
+
+- AI-Generated Profile Pictures: Create profile photos using AI.
+
+- Colorful Chat Icons: Chats without profile pics now show colorful name initials.
+
+- Unread Message Counters: Message filters show unread counts so nothing gets missed.
+
+## 🛠️ Bug Fixes
+- Fixed random crashes during voice calls
+
+- Fixed issues with some status updates not showing
+
+## 📌 Coming Soon
+- More Powerful AI Studio Tools
+
+- Set WhatsApp as Default Messaging App (iPhone)
+
+- Option to Save Your Own Status Updates
+
+
+📲 Keep WhatsApp updated to enjoy all the latest features as they roll out!
+
+
+
+
