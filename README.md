@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Technical Writer and information Developer w
 
 ---
 
-## 👀 I’m interested in...
+## 👀 My Expertise
 
 - **Docs as Code**: Streamlining documentation processes using modern tools and workflows.
 - **User Manuals & Help Guides**: Creating clear, easy-to-follow documentation that helps users accomplish tasks with confidence.
