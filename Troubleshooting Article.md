@@ -8,7 +8,7 @@
 
 ## Issue
 
-Your WhatsApp Business account has been disabled or blocked by Meta, and attempts to unlock it have been unsuccessful.
+You are not able to log in, and attempts to unlock it have been unsuccessful.
 
 ---
 
@@ -24,10 +24,10 @@ Your WhatsApp Business account has been disabled or blocked by Meta, and attempt
 
 Your account may have been disabled due to violations of Meta's policies. Common reasons include:
 
-- **Sending bulk messages** to many contacts using automation tools.  
-- **Sharing spammy advertisements** or overly promotional messages containing multiple links, which can be marked as low-quality content.  
-- **Being reported or blocked** by customers.  
-- **Violating WhatsApp guidelines**, such as:
+- You have sent Bulk messages to many contacts using automation tools.  
+- Sharing spammy advertisements or overly promotional messages containing multiple links, which can be marked as low-quality content.  
+- Being reported or blocked by customers.  
+- Violating WhatsApp guidelines, such as:
   - Selling prohibited goods and services.  
   - Using offensive language.  
   - Spreading false news.
@@ -36,17 +36,14 @@ Your account may have been disabled due to violations of Meta's policies. Common
 
 ## Solutions
 
-- Ensure you've read and understand [WhatsApp Business Policy](https://www.whatsapp.com/legal/business-policy/) and the [Commerce Policy](https://www.facebook.com/policies/commerce).
-- Ensure your messaging practices align with these policies.
-
-- If your account is **temporarily disabled**, Meta may automatically re-enable it within **24 hours**.
+- If your account is temporarily disabled, Meta may automatically re-enable it within **24 hours**.
 
 - If your account has been disabled for more than one day:  
   1. Log in to your [WhatsApp Business Manager](https://business.facebook.com/) account.  
   2. Navigate to your **WhatsApp Business account settings**.  
-  3. Review any messages or flags indicating **why the account was disabled**.
-  4. If instructions are provided within Business Manager, follow them carefully to request a review or appeal.
-  5. If your account is still blocked after resolving the issue,  contact the WhatsApp support team:  
+  3. Review messages or flags indicating **why the account was disabled**.
+  4. If instructions are provided within Business Manager, follow them to request a review or appeal.
+  5. If your account is blocked after resolving the issue, contact the WhatsApp support team:  
   **📧 smb_web@support.whatsapp.com**
 
 ---
