@@ -22,7 +22,10 @@ You can easily react to and share your friends' status updates with others. This
 ### 🎶 Turn Up the Volume: Add Music to Your WhatsApp Status!  
 You can add music tracks to your Status updates, making your shared moments more expressive and engaging.  
 
-![Music](https://github.com/alimamulla/Portfolio/blob/dfa85535d4c07dea931cfddbfeb287b89f28586f/music.png)
+<div align="center">
+<img src="https://github.com/alimamulla/Portfolio/blob/dfa85535d4c07dea931cfddbfeb287b89f28586f/music.png" alt="icon" width="680" height="360" />
+</div> 
+
 
 ### ✉️ Introducing Voice Message Transcripts  
 
@@ -30,17 +33,20 @@ Now you can read voice messages instead of listening to them. Perfect when you�
 Voice messages are transcribed into text to help you keep up with conversations no matter what you’re doing.  
 Transcripts appear right below the voice message, automatically.  
 
-![](https://github.com/alimamulla/Portfolio/blob/621de7477d80e5f947a1ce34c1e9395f0a694d83/transcript.png)  
+<div align="center">
+<img src="https://github.com/alimamulla/Portfolio/blob/621de7477d80e5f947a1ce34c1e9395f0a694d83/transcript.png" alt="icon" width="680" height="360" />
+</div>
+
 
 
 ## 🔧 Improvements
-- Quick Emoji Reactions: Double-tap any message to react fast.
+- Quick Emoji Reactions; Double-tap any message to react fast.
 
-- AI-Generated Profile Pictures: Create profile photos using AI.
+- AI-Generated Profile Pictures; Create profile photos using AI.
 
-- Colorful Chat Icons: Chats without profile pics now show colorful name initials.
+- Colorful Chat Icons; Chats without profile pics now show colorful name initials.
 
-- Unread Message Counters: Message filters show unread counts so nothing gets missed.
+- Unread Message Counters; Message filters show unread counts so nothing gets missed.
 
 ## 🛠️ Bug Fixes
 - Fixed random crashes during voice calls
