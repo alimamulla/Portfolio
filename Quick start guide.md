@@ -74,7 +74,6 @@ There are a couple of ways to rotate shapes:
 
 You can flip shapes using the **Arrange** tab in the **Format Panel** on the right. You can choose to flip the shape vertically or horizontally.
 
----
 
 ## Entering text
 
@@ -88,7 +87,6 @@ You can also place text freely on the drawing area. Double click on an empty are
 
 Text size, font and color can be altered in the **Text** tab of the **Format Panel**. Double-click on the text to get enhanced text options in the Format panel.
 
----
 
 ## Add and connect new shapes
 
@@ -98,7 +96,6 @@ Choose the shape in the upper left corner to duplicate the original shape 1:1 (o
 
 Now add another shape at the bottom of the rectangle. Drag the shape on the bottom blue arrow of the rectangle to add and connect it at the same time.
 
----
 
 ## Add text to connectors
 
