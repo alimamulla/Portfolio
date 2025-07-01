@@ -134,6 +134,12 @@ Text size, font and color can be altered in the **Text** tab of the **Format Pan
 Click on a blue arrow of your selected or unselected (when you hover over the shape with your mouse) rectangular shape, so the **Draw.io shape picker** opens.
 
 Choose the shape in the upper left corner to duplicate the original shape 1:1 (or use one of the most used shapes from the general shape library). The shape and its content are duplicated and connected with a connector in the direction of the arrow on which you clicked.
+<div align="center">
+<img src="images/12.png" alt="icon" width="215"  />
+<img src="images/13.png" alt="icon" width="220"  />
+</div>
+
+
 
 Now add another shape at the bottom of the rectangle. Drag the shape on the bottom blue arrow of the rectangle to add and connect it at the same time.
 
