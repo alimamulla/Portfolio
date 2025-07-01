@@ -1,3 +1,11 @@
+## TABLE OF CONTENTS
+
+- Installing Draw.io application
+- Application Environment
+- How to create flowcharts in draw.io
+- How to customize diagrams, connectors and its shortcuts
+- Export and import
+
 ## Installing Draw.io application
 
 This section is helpful for Windows user.
@@ -149,6 +157,9 @@ Now add another shape at the bottom of the rectangle. Drag the shape on the bott
 Double-click on the connector where you like to add the text to and start typing.
 
 Use the **yellow diamond icon** to reposition the text if needed. You can modify the text with the same panels that you used to edit and format your text in shapes.
+<div align="center">
+<img src="images/14.png" alt="icon" width="220" />
+</div>
 
 ---
 
@@ -159,7 +170,10 @@ Import and export option allows you to import or export your drawings in various
 ### Export diagram
 
 1. Open your Draw.io diagram  
-2. Click `File > Export as` and then select the format you want to export  
+2. Click `File > Export as` and then select the format you want to export
+<div align="center">
+<img src="images/15.png" alt="icon" width="220" />
+</div>
 
 ### Import files
 
@@ -174,4 +188,7 @@ You can import diagrams in the following formats:
 - `.svg`  
 - `.csv`
 
-1. Go to `File > Import from`, choose from where you want to import.  
+1. Go to `File > Import from`, choose from where you want to import.
+<div align="center">
+<img src="images/16.png" alt="icon" width="220" />
+</div>
