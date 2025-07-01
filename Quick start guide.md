@@ -91,7 +91,7 @@ Duplicate the diagram or the selected shapes by right-clicking and select **Dupl
 
 ### Replace shapes
 
-To convert a shape, drag the desired shape from **General shape library** over the already existing one until you see the blueblack conversion icon. You can do this to more than one shape at a time. In this case, select all blue rectangle shapes you’d like to replace and drag the new shape over one of the selected rectangles.
+To convert a shape, drag the desired shape from **General shape** library over the already existing one until you see the blueblack conversion icon. You can do this to more than one shape at a time. In this case, select all blue rectangle shapes you’d like to replace and drag the new shape over one of the selected rectangles.
 
 <div align="center">
 <img src="images/6.png" alt="icon" width="300" />
@@ -122,7 +122,7 @@ Add any shape to your diagram. After you insert the shape, you can directly star
 
 To change the position or format of the text inside the shape, use the **Text** tab of the **Format Panel** on the right.
 
-By adjusting the spacing at the bottom of the Text tab, you can set the location of the text.
+By adjusting the spacing at the bottom of the **Text** tab, you can set the location of the text.
 <div align="center">
 <img src="images/9.png" alt="icon" width="220" height="400"/>
 </div>
@@ -139,9 +139,9 @@ Text size, font and color can be altered in the **Text** tab of the **Format Pan
 
 ## Add and connect new shapes
 
-Click on a blue arrow of your selected or unselected (when you hover over the shape with your mouse) rectangular shape, so the **Draw.io shape picker** opens.
+Click on a blue arrow of your selected or unselected (when you hover over the shape with your mouse) rectangular shape, so the **Draw.io** shape picker opens.
 
-Choose the shape in the upper left corner to duplicate the original shape 1:1 (or use one of the most used shapes from the general shape library). The shape and its content are duplicated and connected with a connector in the direction of the arrow on which you clicked.
+Choose the shape in the upper left corner to duplicate the original shape 1:1 (or use one of the most used shapes from the **general shape** library). The shape and its content are duplicated and connected with a connector in the direction of the arrow on which you clicked.
 <div align="center">
 <img src="images/12.png" alt="icon" width="215"  />
 <img src="images/13.png" alt="icon" width="220"  />
@@ -169,8 +169,8 @@ Import and export option allows you to import or export your drawings in various
 
 ### Export diagram
 
-1. Open your Draw.io diagram  
-2. Click `File > Export as` and then select the format you want to export
+1. Open your **Draw.io** diagram  
+2. Click **File > Export as** and then select the format you want to export
 <div align="center">
 <img src="images/15.png" alt="icon" width="220" />
 </div>
@@ -179,16 +179,16 @@ Import and export option allows you to import or export your drawings in various
 
 You can import diagrams in the following formats:
 
-- `.xml` (draw.io)  
-- `.gliffy` (Gliffy)  
-- `.json` (Lucidchart)  
-- `.vsdx` (Visio)  
-- `.png` (with XML)  
-- `.jpeg`  
-- `.svg`  
-- `.csv`
+- .xml (draw.io)  
+- .gliffy (Gliffy)  
+- .json (Lucidchart)  
+- .vsdx (Visio)  
+- .png (with XML)  
+- .jpeg  
+- .svg  
+- .csv
 
-1. Go to `File > Import from`, choose from where you want to import.
+1. Go to **File > Import from**, choose from where you want to import.
 <div align="center">
 <img src="images/16.png" alt="icon" width="220" />
 </div>
