@@ -79,11 +79,11 @@ Draw.io is a diagramming tool used to create a wide range of visual diagrams suc
 
 ### Duplicate the diagram
 
-To duplicate the entire diagram, you must first select it by Ctrl+A (Cmd+A on a Mac), or Edit > Select All. Alternatively, you can also drag a frame with your mouse to select all shapes.
+To duplicate the entire diagram, you must first select it by `Ctrl+A` (`Cmd+A` on a Mac), or **Edit > Select All**. Alternatively, you can also drag a frame with your mouse to select all shapes.
 
 To duplicate only certain areas of a diagram, just push and hold the `Shift` key and select them with your mouse. Make sure that all objects and connectors you want to duplicate are selected.
 
-Duplicate the diagram or the selected shapes by right-clicking and select **Duplicate**, or use the shortcut `Ctrl+D` (`Cmd+D` on a Mac). Or you can use the menu bar `Edit > Duplicate`.
+Duplicate the diagram or the selected shapes by right-clicking and select **Duplicate**, or use the shortcut `Ctrl+D` (`Cmd+D` on a Mac). Or you can use the menu bar **Edit > Duplicate**.
 
 <div align="center">
 <img src="images/5.png" alt="icon" width="200" height="300" />
