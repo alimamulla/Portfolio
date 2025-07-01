@@ -36,12 +36,12 @@ On successful installation and setting up, Draw.io home page will display.
 
 Draw.io is a diagramming tool used to create a wide range of visual diagrams such as flowcharts, network diagrams, organizational charts, mind maps, UML diagrams, and more. You can create any diagrams based on your business needs.
 
-1. If you want to create new diagram click `File > New…`  
-2. Templates window displays, click **Basic** from templates manager, click **Blank Diagram** to create from scratch  
-   If you want to create from scratch choose Blank diagram or else you can choose different predefined diagram templates as per your requirements.  
-3. Enter file name which describes the diagram best in Filename box and choose appropriate extension  
+1. If you want to create new diagram click **File > New…**
+2. **Templates** window displays, click **Basic** from templates manager, click **Blank Diagram** to create from scratch  
+   *If you want to create from scratch choose Blank diagram or else you can choose different predefined diagram templates as per your requirements.*
+3. Enter file name which describes the diagram best in **Filename** box and choose appropriate extension  
 4. Click the **Create** button  
-   You can also import diagram template by clicking `From Template URL > Enter URL > Create`
+   You can also import diagram template by clicking **From Template URL > Enter URL > Create**
 
 <div align="center">
 <img src="images/2.png" alt="icon" width="520" height="360" />
@@ -50,18 +50,18 @@ Draw.io is a diagramming tool used to create a wide range of visual diagrams suc
 
 
 5. Insert random shapes from the **General shape library** on the left-hand side of the editor  
-6. Insert different connectors from the General shape library between shapes  
+6. Insert different connectors from the **General shape** library between shapes  
 7. Start typing or double click in the shape to add/edit the text  
 8. Double click on a connector to add a label  
 
-You can customize/edit shapes and connectors in the **Format Panel** on the right. There are several formatting options:
+*You can customize/edit shapes and connectors in the **Format Panel** on the right. There are several formatting options:*
 
 - Change the color.  
 - Add a gradient.  
 - Change the width, color and style of the line or remove it.  
 - Change the opacity.  
-- Edit the style of the shape (Rounded, Shadow, Glass, Sketch).
-Change or customize the connectors. To do that, select only connectors, now in format panel we can change the color, opacity, width, etc.
+- Edit the style of the shape (Rounded, Shadow, Glass, Sketch).  
+*Change or customize the connectors. To do that, select only connectors, now in format panel we can change the color, opacity, width, etc.*
 
 
 <div align="center">
@@ -79,7 +79,7 @@ Change or customize the connectors. To do that, select only connectors, now in f
 
 ### Duplicate the diagram
 
-To duplicate the entire diagram, you must first select it by `Ctrl+A` (`Cmd+A` on a Mac), or `Edit > Select All`. Alternatively, you can also drag a frame with your mouse to select all shapes.
+To duplicate the entire diagram, you must first select it by Ctrl+A (Cmd+A on a Mac), or Edit > Select All. Alternatively, you can also drag a frame with your mouse to select all shapes.
 
 To duplicate only certain areas of a diagram, just push and hold the `Shift` key and select them with your mouse. Make sure that all objects and connectors you want to duplicate are selected.
 
