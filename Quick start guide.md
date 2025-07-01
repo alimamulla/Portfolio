@@ -132,6 +132,7 @@ You can also place text freely on the drawing area. Double click on an empty are
 <div align="center">
 <img src="images/10.png" alt="icon"  width="190" />
 </div>
+
 Text size, font and color can be altered in the **Text** tab of the **Format Panel**. Double-click on the text to get enhanced text options in the Format panel.
 <div align="center">
 <img src="images/11.png" alt="icon" width="220"  />
