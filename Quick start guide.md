@@ -1,4 +1,4 @@
-## TABLE OF CONTENTS
+## TABLE OF CONTENTS--
 
 - Installing Draw.io application
 - Application Environment
